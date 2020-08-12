@@ -3,4 +3,4 @@
 
 ### Currently Working on Random Projects!
 
-[<span color="green">Hello</span>]
+<span style="color:blue">Hello</span>
