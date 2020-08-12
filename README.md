@@ -1,4 +1,5 @@
 ## LhommeFrancais GitHub Page
-<br />
+<br>
+
 ### Currently Working on Random Projects!
 
